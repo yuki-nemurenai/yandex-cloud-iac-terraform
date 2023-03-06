@@ -1,5 +1,5 @@
 # Yandex Cloud Infrastructure CI/CD based on Gitlab and Terraform
-## Overview of Infrastructure Elements:
+## The Infrastructure Elements overview:
 - Managed Service for Kubernetes (regional cluster)
 - Managed Service for Redis (has not been sharded yet...)
 - Yandex Managed Service for PostgreSQL (High-Availability (HA) PostgreSQL Cluster)
