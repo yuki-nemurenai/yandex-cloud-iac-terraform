@@ -5,7 +5,7 @@
 - Yandex Managed Service for PostgreSQL (High-Availability (HA) PostgreSQL Cluster)
 - VPC Network and subnets
 - VPC Rules
-- Helm post-deploy tasks: install NGINX Ingress Controller and Cert Manager to the existing k8s cluster
+- Helm post-deploy tasks: to install NGINX Ingress Controller and Cert Manager to the existing k8s cluster
 ## Gitlab CI/CD variables: 
 | Variables               | Description                                            |
 |-------------------------|--------------------------------------------------------|
